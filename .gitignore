@@ -1,0 +1,29 @@
+# Ambiente virtual
+venv/
+.env/
+
+# Arquivos de configuração do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de log
+*.log
+
+# Arquivos de cache
+*.pyc
+__pycache__/
+
+# Diretórios de cache do Scrapy
+.scrapy/
+*.json
+
+# Arquivos temporários
+*.swp
+*.swo
+
+# Configurações de IDEs
+.vscode/
+.idea/
+
+# Arquivos do Jupyter Notebook
+.ipynb_checkpoints/
